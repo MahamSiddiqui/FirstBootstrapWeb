@@ -1,0 +1,60 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color:white !important;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+.jumbotron {
+    background-image: url(images/bg.jfif);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: #fff !important;
+    padding: 150px 50px !important;
+    font-family: Montserrat, sans-serif;
+    
+
+}
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none !important;
+    border-radius: 0;
+    
+}
+.logo-small {
+    color:rgb(102, 196, 172);
+    font-size: 50px !important;
+}
+.btn-lg{
+    background-color: rgb(102, 196, 172) !important;
+    color: white !important;
+    font-family: Montserrat, sans-serif !important;
+    border: none;
+
+}
+
+
+    
